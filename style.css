@@ -74,6 +74,10 @@ button {
     border-radius: 15px;
 }
 
+.main-img a:hover {
+    color: rgb(0, 89, 255);
+}
+
 .page-t {
     display: flex;
     flex-direction: column;
